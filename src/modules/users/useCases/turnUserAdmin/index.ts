@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { UsersRepository } from "../../repositories/implementations/UsersRepository";
 import { TurnUserAdminController } from "./TurnUserAdminController";
 import { TurnUserAdminUseCase } from "./TurnUserAdminUseCase";
